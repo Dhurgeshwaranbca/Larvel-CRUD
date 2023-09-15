@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+*{
+    font-family: 'Mooli', sans-serif;
+}
+
+.card{
+    max-width: 30em;
+    flex-direction: row;
+    border: 1px solid #c0aeae;
+    box-shadow: 0 1px 1px rgb(0,0,0,0.1);
+}
+.card img{
+    max-width: 50%;
+    margin: auto;
+    padding:0.5em;
+    border-radius: 0.7em;
+}
