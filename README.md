@@ -13,7 +13,6 @@ MySQL database
 Web server (e.g., Apache)
 
 # Usage
-Visit the application in your web browser or on your mobile device.
-Register for an account or log in if you already have one.
+Visit the application in your web browser.
 Use the application to manage stock items by creating, updating, deleting, or viewing them.
-Explore the various features like search, filter, and pagination to efficiently manage your stock.
+Explore the various features like pagination to efficiently manage your stock.
