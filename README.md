@@ -16,3 +16,6 @@ Web server (e.g., Apache)
 Visit the application in your web browser.
 Use the application to manage stock items by creating, updating, deleting, or viewing them.
 Explore the various features like pagination to efficiently manage your stock.
+
+
+Note: These are sample files; the complete project is accessible in my Drive.
